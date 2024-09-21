@@ -2,23 +2,34 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://github.com/airwarriorg91/Awesome-CV/blob/master/gaurav-circle.jpg"  />
-</div>
-
-###
-
-<h3 align="center">Senior Undergraduate | Aerospace Engineering | IIST</h3>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">🔭 I’m passionate about blending nature’s ingenuity with cutting‑edge aerospace technologies to solve complex flight challenges.<br>💻 I have strong expertise in aerodynamics, CFD, programming, and aircraft design.<br>🤝 I excel in leadership, teamwork, and management, leading projects to successful and innovative outcomes.<br>🚀 Always eager to learn new skills and take on challenges in the ever-evolving world of aerospace engineering.</p>
+
+###
+
+###
+
+<p align="center">
+  Awesome CV and Resume of Gaurav Gupta.
+</p>
+
+<p align="center">
+  <a href="cv.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="30" style="margin-right: 40px;">
+  </a>
+
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="30" style="margin-left: 40px;">
+  </a>
+</p>
+
+<a href="https://airwarriorg91.github.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-DABECA" alt="Resume" height="30" style="margin-left: 40px;">
+  </a>
+</p>
 
 ###
 
