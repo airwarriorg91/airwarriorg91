@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Gaurav Gupta 👋</h1>
+<h1 align="center">Hi there, I'm Gaurav Gupta 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Senior Undergraduate | Aerospace Engineering | IIST</h3>
+<h3 align="center">Senior Undergraduate | Aerospace Engineering | IIST</h3>
 
 ###
 
