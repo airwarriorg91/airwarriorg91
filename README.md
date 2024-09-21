@@ -24,7 +24,6 @@
   <a href="resume.pdf">
     <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="30" style="margin-left: 40px;">
   </a>
-</p>
 
 <a href="https://airwarriorg91.github.io/">
     <img src="https://img.shields.io/badge/Personal%20Website-DABECA" alt="Resume" height="30" style="margin-left: 40px;">
