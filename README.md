@@ -13,10 +13,6 @@
 ###
 
 <p align="center">
-  Awesome CV and Resume of Gaurav Gupta.
-</p>
-
-<p align="center">
   <a href="cv.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="30" style="margin-right: 40px;">
   </a>
