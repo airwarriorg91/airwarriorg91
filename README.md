@@ -13,11 +13,11 @@
 ###
 
 <p align="center">
-  <a href="../../../github/Awesome-CV/blob/master/cv.pdf">
+  <a href="/../../../../github/Awesome-CV/blob/master/cv.pdf">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="30" style="margin-right: 40px;">
   </a>
 
-  <a href="../../../github/Awesome-CV/blob/master/resume.pdf">
+  <a href="/../../../../github/Awesome-CV/blob/master/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="30" style="margin-left: 40px;">
   </a>
 
